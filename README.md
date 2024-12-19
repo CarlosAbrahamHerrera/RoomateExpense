@@ -3,17 +3,6 @@
 ## Overview
 The Split Expenses App is a simple and efficient tool designed for roommates or anyone who frequently shares expenses. The app allows users to input expenses, and it automatically splits the cost in half, helping to ensure fair and hassle-free sharing of costs.
 
-## Project Structure
-```
-split-expenses-app
-├── src
-│   ├── index.js        # Main JavaScript entry point
-│   ├── utils.js        # Helper functions for expense calculations
-├── styles
-│   ├── styles.css      # CSS styles for the application
-├── index.html          # Main HTML document
-└── README.md           # Documentation for the project
-```
 
 ## Setup Instructions
 1. Clone the repository to your local machine:
